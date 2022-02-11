@@ -1,6 +1,6 @@
 # Product Page
 
-**Documentation** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+**Documentation** this project (is for beginners only) to start working on any of KDSC web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
 
 <strong>User Story #1:</strong> My product landing page should have a header element with a corresponding id="header".
 
